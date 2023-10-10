@@ -25,6 +25,10 @@ All datasets used in this Paper are follows.
 
 
 ## Results
+### NMI, ARI and VM
+<p align="center">
+<img src="imgs/metrics.png"/>
+</p>
 
 ### "Community Detection"
 <p align="center">
@@ -43,7 +47,6 @@ All datasets used in this Paper are follows.
 If you find our paper useful in your research, please consider citing:
 
 ```
-
 @article{liu2023constraint,
   title={Constraint-Induced Symmetric Nonnegative Matrix Factorization for Accurate Community Detection},
   author={Liu, Zhigang and Luo, Xin and Wang, Zidong and Liu, Xiaohui},
