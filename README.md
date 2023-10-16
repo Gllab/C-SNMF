@@ -27,7 +27,7 @@ All datasets used in this Paper are follows.
 ## Results
 ### RMSE & MAE with value of lambda
 <p align="center">
-<img src="imgs/lambda1.png"/>
+<img src="imgs/lambda1.png" width="400px" height="300px"/>
 </p>
 
 ### NMI, ARI and VM with value of lambda
