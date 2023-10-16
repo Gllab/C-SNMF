@@ -32,12 +32,12 @@ All datasets used in this Paper are follows.
 
 ### NMI, ARI and VM with value of lambda
 <p align="center">
-<img src="imgs/lambda2.png"/>
+<img src="imgs/lambda2.png" width="400px" height="300px"/>
 </p>
 
 ### RMSE, MAE, NMI, ARI and VM with value of mu
 <p align="center">
-<img src="imgs/mu.png"/>
+<img src="imgs/mu.png" width="400px" height="300px"/>
 </p>
 
 ### "Community Detection"
