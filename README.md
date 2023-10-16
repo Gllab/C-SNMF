@@ -25,22 +25,46 @@ All datasets used in this Paper are follows.
 
 
 ## Results
-### NMI, ARI and VM
+### RMSE & MAE with value of lambda
 <p align="center">
-<img src="imgs/metrics.png"/>
+<img src="imgs/lambda1.png"/>
+</p>
+
+### NMI, ARI and VM with value of lambda
+<p align="center">
+<img src="imgs/lambda2.png"/>
+</p>
+
+### RMSE, MAE, NMI, ARI and VM with value of mu
+<p align="center">
+<img src="imgs/mu.png"/>
 </p>
 
 ### "Community Detection"
 <p align="center">
-<img src="imgs/Community Detection.png"/>
+<img src="imgs/community_detection.png"/>
 </p>
 
 
 ### "RMSE & MAE Convergence"
 <p align="center">
-<img src="imgs/RMSE&MAE Convergence.png"/>
+<img src="imgs/RMSE_MAE_Convergence.png"/>
 </p>
 
+### "NMI, ARI and VM Convergence"
+<p align="center">
+<img src="imgs/metric_convergence.png"/>
+</p>
+
+### "minRMSE & minMAE"
+<p align="center">
+<img src="imgs/result1.png"/>
+</p>
+
+### "NMI, ARI and VM"
+<p align="center">
+<img src="imgs/result2.png"/>
+</p>
 
 ## Citation
 
