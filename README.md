@@ -42,18 +42,18 @@ All datasets used in this Paper are follows.
 
 ### "Community Detection"
 <p align="center">
-<img src="imgs/community_detection.png"/>
+<img src="imgs/community_detection.png" width="400px" height="300px"/>
 </p>
 
 
 ### "RMSE & MAE Convergence"
 <p align="center">
-<img src="imgs/RMSE_MAE_Convergence.png"/>
+<img src="imgs/RMSE_MAE_Convergence.png" width="400px" height="300px"/>
 </p>
 
 ### "NMI, ARI and VM Convergence"
 <p align="center">
-<img src="imgs/metric_convergence.png"/>
+<img src="imgs/metric_convergence.png" width="400px" height="300px"/>
 </p>
 
 ### "minRMSE & minMAE"
